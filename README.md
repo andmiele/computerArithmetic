@@ -1,7 +1,7 @@
 # System Verilog implementation of integer arithmetic
 ## Disclaimer
 **The code provided in this repository is something I worked on in my free time to learn System Verilog and brush up on digital design from the point of view of someone who was a VHDL (research) digital designer in a previous life.
-The code is not production level and was neither thoroughly tested nor formally verified.**
+The code is not production-level and was neither thoroughly tested nor formally verified.**
 ## Content
 * **integerArithmetic**
     * **adder_subtractor** - Carry Look Ahead adders/subtractors: 4-bit, generic 8-16-32-64-bit, 24-bit, 48-bit, 53-bit, 106-bit
